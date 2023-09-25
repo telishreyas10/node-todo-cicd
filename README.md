@@ -39,6 +39,28 @@ This project aims to automate code delivery, enhance collaboration, and ensure c
 ## Architecture
 
 ![Architecture](https://github.com/telishreyas10/node-todo-cicd/blob/master/assets/architecture.png)
+
+## Screenshots
+
+- AWS EC2 Instance :
+
+![AWCEC2](https://github.com/telishreyas10/node-todo-cicd/blob/master/assets/aws-ec2-instance.PNG)
+
+- GitHub webhook : 
+
+![Webhook](https://github.com/telishreyas10/node-todo-cicd/blob/master/assets/github-webhook.PNG)
+
+- Jenkins Pipeline : 
+
+![pipeline](https://github.com/telishreyas10/node-todo-cicd/blob/master/assets/jenkins-pipeline.PNG)
+
+- Git push events triggers Jenkins pipeline using Github webhooks achieving Continuous Integration and Continuous Deployment (CI/CD):
+
+![CI/CD](https://github.com/telishreyas10/node-todo-cicd/blob/master/assets/jenkins-cicd.PNG)
+
+- Todo App Deployed on EC2 instance through Jenkins pipeline :  
+
+![Todo App Live](https://github.com/telishreyas10/node-todo-cicd/blob/master/assets/todo-app-live.PNG)
 ## Contributions
 
 Contributions are welcome! If you have any improvements or suggestions for this project, please feel free to open an issue or submit a pull request
